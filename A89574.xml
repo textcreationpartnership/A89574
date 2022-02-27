@@ -1,0 +1,240 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Speculum libertatis Angliæ re restitutæ: or, The looking-glasse of Englands libertie really restored. Being the representation of the just and equitable constitution of a real common-wealth, suitable to the earnest desires and expectation of most of the good people in the three nations, and as we hope the intendment of supream authority. Published for the incouragement and reviving of the hearts and hopes of all the well-affected.</title>
+            <author>R. M.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89574</idno>
+            <idno type="STC">Wing M77</idno>
+            <idno type="STC">Thomason E989_19</idno>
+            <idno type="STC">ESTC R202862</idno>
+            <idno type="EEBO-CITATION">99863015</idno>
+            <idno type="PROQUEST">99863015</idno>
+            <idno type="VID">115197</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89574)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115197)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 147:E989[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Speculum libertatis Angliæ re restitutæ: or, The looking-glasse of Englands libertie really restored. Being the representation of the just and equitable constitution of a real common-wealth, suitable to the earnest desires and expectation of most of the good people in the three nations, and as we hope the intendment of supream authority. Published for the incouragement and reviving of the hearts and hopes of all the well-affected.</title>
+                  <author>R. M.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J.B. and are to be sold by Richard Skelton at the Hand and Bible in Duck-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on A3r: R.M.</note>
+                  <note>A reprinting; quire A has been partly reset.</note>
+                  <note>Annotation on Thomason copy: "July. 13.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Republics --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  Early works to 1800.</term>
+               <term>Great Britain --  Constitution --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115197:1" rendition="simple:additions"/>
+            <p>
+               <hi>Speculum Libertatis Angliae Re reſtitutae:</hi> OR, THE LOOKING-GLASSE OF Englands Libertie REALLY RESTORED.</p>
+            <p>Being the Repreſentation of the Juſt and E<g ref="char:EOLhyphen"/>quitable conſtitution of a real Common<g ref="char:EOLhyphen"/>wealth, ſuitable to the earneſt deſires and expectation of moſt of the good People in the three Nations, and as we hope the in<g ref="char:EOLhyphen"/>tendment of Supream Authority. Publi<g ref="char:EOLhyphen"/>ſhed for the incouragement and reviving of the hearts and hopes of all the well-affected.</p>
+            <bibl>Prov. 12. 20.</bibl>
+            <q>Deceit is in the heart of them that imagine evil: but to the Counſellors of peace ſhall be joy.</q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. B.</hi> and are to be ſold by <hi>Richard Skelton</hi> at the <hi>Hand</hi> and <hi>Bible</hi> in <hi>Duck Lane,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="introduction">
+            <pb facs="tcp:115197:2"/>
+            <pb n="3" facs="tcp:115197:2"/>
+            <head>
+               <hi>Speculum Libertatis Angliae Re reſtitutae:</hi> OR THE LOOKING-GLASSE OF Englands Libertie REALLY RESTORED, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>Dear Country man,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>ERE is no Obſcoenity, Scurrillity Se<g ref="char:EOLhyphen"/>dition, or Calumny expoſed to thy view, to corrupt thy ſober minde, or cauſe the to abuſe and miſ-imploy thy precious time and thoughts (as is in the ſwarmes of fooliſh and rediculous Pamphlets that ſhamefully are permitted to fly up and down with uncliped wings, tending rather to debauch, corrupt, diſtract, and divide the minds of men, then any way to compoſe us to the reception of thoſe ſounder and ſoberer principles and notions, that may [by Gods affiiſtance] reduce and happily eſtabliſh us in a juſt and equitable craſis and conſtitution of a reall Common-wealth, which is the ſole and onely aym the Authour of this Looking-Glaſs of real Liberty propoſes to himſelfe. And that wee may enjoy not onely the title and name, but the very ſubſtance and thing it ſelfe we have ſo dearly purchaſed, our Parliament
+<pb n="4" facs="tcp:115197:3"/>
+hath ſo ſolemnly promiſed, &amp; the almoſt miraculous providence of their late re-inveſtment and admittance to the full power and opportunity of effecting it all, call aloud for at their hands: For if they looſe and ſquander away this gracious ſeaſon by their ſlaviſh fears, ſelf-intereſts, and their old deferments and ſlackneſs; this is the laſt expectation (in all probability) that either God or good men will evermore entertain of them, and they ſhall moſt certainly entaile perpetuall and indeleable ſhame and ignominy on their name and poſterity; and ut<g ref="char:EOLhyphen"/>terly and finally expoſe this poore Nation (in the eye of hu<g ref="char:EOLhyphen"/>mane reaſon) to irrecoverable vaſſallage and ſlavery, who will rather chuſe to endure the worſt of evils, than to be enſlaved under them, by whom they have been ſo often and unſuffer<g ref="char:EOLhyphen"/>ably fruſtrated and deceived. But, that we are very confident (through the Lords help) ſhould they fail us the ſecond time, that yet God will not ſuffer this his own work (wherein from time to time he hath ſo ſignally appeared to go backward) but will of his mercy finde out, and raiſe up ſuch other in<g ref="char:EOLhyphen"/>ſtruments as ſhall at laſt be found worthy and meet in his hand, to carry it on till it be fully accompliſhed, and we are made in very deed as now we are onely in name, a reall Common-wealth.</p>
+            <p>In effecting whereof, our Example or Pattern neither muſt nor can be the old mode of our Monarchy, new vamped and ſet up in an other ſingle perſon; this is but to put a new piece into an old garment, whereby the rent is made worſe, as we have already experimented: Nor muſt it be (ſave in ſome few particulars that ſute with common reaſon and juſtice) the con<g ref="char:EOLhyphen"/>ſtitution of the <hi>Hollanders</hi> our neighbours, or any other, whoſe formes are chiefly adapted to their ſeverall and reſpective Scituations, Intereſts, Relations, Dependencies, Religions, and manners, and in very many things compoſed and mixed with baſe allays of tyranny and injuſtice: But ours muſt be that which will really reduce us to the full poſſeſſion of our an<g ref="char:EOLhyphen"/>cient birthrights as free-born Engliſh-men, not only that ſmall and inconſiderable part or piece thereof, now only Extant, contained in the <hi>magna charta</hi> or great Charter (ſo called) that <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> us ſo many ſeas of blood and millions of treaſure to
+<pb n="5" facs="tcp:115197:3"/>
+purchaſe and maintain which yet could never be fully enjoyed to this day, but alſo all that right equity and juſtice, both in reaſon and religion, that a free people, and under no force, but of their own in their repreſentatives, choſen and elected by themſelves, can think or deviſe to beſtow upon themſelves to make the conſtitution of their Government more juſt, equitable, and eaſy; all our intereſts by our being become a reall Common-wealth, being ſwallowed up into one common intereſt, truly and really intending and re<g ref="char:EOLhyphen"/>garding the good and benefit as of the whole, ſo alſo of every particular and individuall member of the ſame, by one and the ſelfe-ſame rule of equity, which is the onely expedient (under God) to unite the hearts of all true Engliſh-men in one, and to induce an everlaſting peace and ſettlement to theſe war<g ref="char:EOLhyphen"/>wearied, diſtracted, and divided nations, which is the earneſt prayer and endeavour of him that is thine and his Countries reall friend and well-willer,</p>
+            <closer>
+               <signed>R. M.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <head>An Epitome or Repreſentation of ſome of the chief Maxims of the Policy, and laws abſolutely requiſite, and neceſſary to the making and conſtituting the Nation a reall Common-wealth.</head>
+            <p>THat the Governours and People of theſe Nations have one and the ſelf-ſame equall and common Intereſt, Privi<g ref="char:EOLhyphen"/>ledges, and benefits, in the Policy and Laws by which they are governed; for if we are a Free-State or Common-wealth, every man, high, or low, rich or poore, Magiſtrate or Sub<g ref="char:EOLhyphen"/>ject, hath and ought to have, one and the ſelf-ſame right pro<g ref="char:EOLhyphen"/>tection and defence from the Law without exception.</p>
+            <p>And as this is, and ought to be enacted as one branch of the great Charter, for, and in reſpect of the regulation of mens manners and deportments correcting, and preventing wrongs and injuries, and the preſervation of particular and private intereſts, (for our great Charter takes eſpeciall care to main<g ref="char:EOLhyphen"/>tain
+<pb n="6" facs="tcp:115197:4"/>
+and ſecure each man in his particular and private intereſts) yet is not private intereſt, as to <hi>Meum et Tuum,</hi> that is to mine and thine, left utterly lawleſſe, unlimited and bound<g ref="char:EOLhyphen"/>leſſe; for our Common-wealth, though it may admit of poore, yet muſt have no beggers, or any that want ne<g ref="char:EOLhyphen"/>ceſſaries, for we have but three ranks or eſtates of men amongſt us; <hi>viz.</hi> either thoſe that have ſufficient to ſupply neceſſity, or ſecondly, thoſe that have for conveniency of a more free and comfortable lively-hood; or thirdly, thoſe that have for ſuperfluity and abundance; the ſuperfluity is cauſed to make a comfortable ſupply to the neceſſity, to prevent beggery; this, and conveniency, do defray the publique expence and charges of the Common-wealth, and by this rule we lay and leavy out publique Rates and Taxes; thoſe poore that can and will work, we take care to ſet them on work (if they want it) and pay them liberally; thoſe that can but will not, we compell them to be willing by due correction; thoſe that would but cannot, as aged perſons, children, ſick folks, and diſeaſed, we comfortably provide for them without it in the way aforeſaid, and if we are nceceſſitated to raiſe any publique tax or rate over and above thoſe that are the conſtant and uſu<g ref="char:EOLhyphen"/>all ones of the cuſtoms, and exciſe of Beer and Ale, &amp;c. ſold in Innes and Victualling-houſes, we leavy it by way of ſubſidy, wherein thoſe bear the burthen that are beſt able, and the tax in it ſelfe is moſt equall and contentfull.</p>
+            <p>As to the Legiſlative power, that is to ſay, the power of making Laws that onely by the great Charter, is to be &amp; reſide in the great and generall aſſembly of the peoples repreſenta<g ref="char:EOLhyphen"/>tives in Parliament, who alone have power to make new Laws, and to repeate thoſe that are old, unneceſſary, and out of uſe; ſaving, that they have no power given them, by the great Charter aforeſaid, to make any new Law that may break, infringe, or deſtroy the conſtitution of our government, as a Common-wealth. For he, that once but makes a motion of that either in, or out of the houſe, is adjudged and executed as a Traitor. And if our repreſentatives, ſhall ſo far forget their oath to God and the Nation, as to falſify the truſt repoſed in them, and that the Major part, or the whole, ſhould vote
+<pb n="7" facs="tcp:115197:4"/>
+and enact againſt the conſtitution and Character of the govern<g ref="char:EOLhyphen"/>ment, then there is a clauſe in the Character that declares them Traytors, and abſolutely diſſolved, and that the Peo<g ref="char:EOLhyphen"/>ple are thereby required to indeavour as one man, to bring them to condigne puniſhment, and to elect and chuſe new ones in their ſtead, more faithfull and better principled to the free<g ref="char:EOLhyphen"/>dom and common good of their Country.</p>
+            <p>Theſe repeſentatives are to be choſen by the people of the Nation, in every Province or County, and at their firſt fit<g ref="char:EOLhyphen"/>tingare all ſworn inviolably to maintaine the great Charter of the Commonweales conſtitution, in the afore-ſaid choice and election, no mans ſuffrage or vote, is ecepted but onely men of deſſolute lives and converſations, and very ſuſpiti<g ref="char:EOLhyphen"/>ous, or openly diſ-affected perſons to the Common-wealth; for ſuch as theſe may neither chuſe, nor be choſen, to bear any publique office of truſt, and profit, in this Commonwealth.</p>
+            <p>This great aſſembly, or Parliament, is to be called trieni<g ref="char:EOLhyphen"/>ally, that is to ſay once every three years, at leaſt.</p>
+            <p>As to the executive power, it is by them to be put into the hands of ſuch perſons quallified, without any of the excepti<g ref="char:EOLhyphen"/>ons aforeſaid, as they ſhall think fit.</p>
+            <p>And becauſe the ſame Repreſentative or Parliament, is not to fit <hi>durante vita,</hi> during their lives, there is a competent time ſet; <hi>viz.</hi> one yeare at fartheſt; with in which time, they are ob<g ref="char:EOLhyphen"/>liged by the Charter of the Common-wealths conſtitution to deſolve; and before ſuch their deſolation, to appoint and elect a Counſell of State out of themſelves, who are to manage all affaires in the intervalls, according to ſuch Lawes, Ordinances, and inſtructions, as ſhall be made and enacted by the ſaid Parliament before its deſolution, and not other<g ref="char:EOLhyphen"/>wiſe under account, unto the next Repreſentative of ſuch their tranſactions and adminiſtrations, wherein if they have be<g ref="char:EOLhyphen"/>haved themſelves wiſely, juſtly, and faithfully, they are ho<g ref="char:EOLhyphen"/>noured and thanked, if otherwiſe, diſcarded, diſgraced, and puniſhed. As ſoone as the new Repreſentative ſits, as afore<g ref="char:EOLhyphen"/>ſaid, the power of the Councell of State ſhall ceaſe and be determined untill another be by them newly elected, and by
+<pb n="8" facs="tcp:115197:5"/>
+this meanes our Grandees of State will know, and be made ſenſible, as well what it is to obey, and be ſubject, as to rule and govern, experimenting both conditions.</p>
+            <p>This councell of State fore-mentioned, hath power and inſtruction upon great and neceſſary emergencies of State, as in caſe of forraigne invaſions, making war, and concluding peace, or, raiſing new impoſitions and taxes on the people, to call a Parliament before the trieniall courſe revolve and come about, for they are not intruſted to tranſact ſuch important affaires on their owne heads, without the adviſe and conſent of the great aſſembly of Parliament, yet may they iſſue forth any Proclamations and orders, that they ſhall ſee fit and ne<g ref="char:EOLhyphen"/>ceſſary, for the better obſervation, and execution of the Laws, already made and enacted for the peace and well Government of the Common-wealth.</p>
+            <p>The title that we give this counſell of State is, <hi>viz.</hi> The keepers of the Liberties of the Common-wealth of <hi>England,</hi> authorized by act of Parliament: and in this manner, both our ſelves and forraigne States make our addreſſes to them, and in like manner run all our Law proceſſes, and commiſſions to any Miniſters of State, millitary or civill, in the intervalls.</p>
+            <p>The Common-wealth gives no honours unto any man, other than his vertues merit, in being ſervicable to the State in this, or in ſome honourable truſt and imployment for the publick: Wealthy men, and of great eſtates, otherwiſe are of ſmall reputation and account, but amongſt their owne Tennants and Creditors.</p>
+            <p>If any intruſted in ſtate affaires, growes rich inſenſibly, if he were not ſo before, we forthwith lay him aſide, as ſuſ<g ref="char:EOLhyphen"/>pected of ſecret deceit, falſneſſe, and bribery.</p>
+            <p>All offices of truſt and profit, as they are conferred on the moſt able and deſerving men, without reſpect to private rela<g ref="char:EOLhyphen"/>tions, ſo are they given freely alſo, that the greater may their obligation be to uſe them without oppreſſion of the people, and the more their ſhame and guilt if they abuſe them.</p>
+            <p>Thoſe deſerving men of ſmaller eſtates, and are preferred to places of profit; and thoſe of greater, to places of honour and truſt, but all muſt be alike faithfull and honeſt, in all
+<pb n="9" facs="tcp:115197:5"/>
+reſpects that are imployed in the one or other.</p>
+            <p>And as we doe in civill, thus alſo we doe in millitary com<g ref="char:EOLhyphen"/>mands, and offices, for we keepe a ſmall Army alwayes of a<g ref="char:EOLhyphen"/>bout ten thouſand Horſe and Foot, beſides theſe in ſome four or five of our moſt conſiderable Ports: and garriſons, to hin<g ref="char:EOLhyphen"/>der inteſtine inſurrections, or forraigne invaſions and to take up all looſe ſtragling and martiall ſpirits, whoſe minds cannot ſettle to any civill calling or imployment, who yet by diſcreet diſcipline will be kept out of harmes way, and made very ſerviceable to the Common-wealth, for the ends afore<g ref="char:EOLhyphen"/>ſaid. Theſe alſo ſerve for a guard to the great aſſembly of Parliament, whilſt they fit, and to the Councell of State, in the intervalls to ſuppreſſe and keepe under the headineſſe, in<g ref="char:EOLhyphen"/>inſolency, and diſaffection of the the baſer ſort of our Me<g ref="char:EOLhyphen"/>tropolis, if not in other reſpects, yet in regard of their opinions and principles to the Common-wealths government, who by their ſelfe conceipt, Pride and raſhneſſe, would ſoone unſettle our Common-wealth, and undoe themſelves, were it not for theſe, and the Tower, of which eſpeciall care muſt be taken, that it be in the hands of a man of great ſufficiency of parts of moſt approved fidellity and ſincerity to the Common-wealth.</p>
+            <p>We have alſo our Militias of trained bonds, of horſe and foot, raiſed in each County, and diſciplined and trained in the exer<g ref="char:EOLhyphen"/>ciſe of armes at certaine ſet times, at leaſt four times in a year, commanded by able and honeſt Commanders, that they may be ready upon ſome few houres warning, to appeare in armes for the defence of their Countrey, and of their Lawes and Liberty.</p>
+            <p>Our Repreſentatives retaine the power and office of <hi>Gene<g ref="char:EOLhyphen"/>raliſſimo</hi> in their owne hands, whilſt they fit, and delegate it to the Keepers of the Liberties of <hi>England,</hi> in the intervalls.</p>
+            <p>They themſelves appoint their Leivtenant Generall by act of Parliament, who ought to be a man, not only truly valiant, but alſo one really poſſeſſing the quallifications declared by the Common-wealth, <hi>viz.</hi> one truly fearing God, a lover of all the people of God, and if he have theſe two, he can hardly want all the reſt that becomes of a Common-wealths man, the which is abſolutely required, in the perſon that ſhall com<g ref="char:EOLhyphen"/>mand our Army.</p>
+            <p>
+               <pb n="10" facs="tcp:115197:6"/>Our Lawes are few, neceſſary, plaine, and eaſie, (without any quirkes and quiddities) to be underſtand by the moſt vulgar capacities.</p>
+            <p>Our Lawyers and Adminiſtrators of Juſtice are as few. Our Law proceſſes, tritalls, and determinations are as ſpeedy unex<g ref="char:EOLhyphen"/>pencible, and as little verations as may be, for we have our Law adminiſtred <hi>de deie in diem,</hi> daily, at our own doores, as it were, that is to ſay, in every County: the Judges and adminiſtrators conſtantly attendin on that buſineſſe.</p>
+            <p>No Law-ſuit or cauſe after the firſt day of hearing (wherein there muſt be no delay uſed) muſt depend undetermined above one moneth, nor any above one yeare and a day, and that is onely when ſome of the materiall parties or witneſſes to the cauſe, are beyond the ſeas, and cannot have notice and warn<g ref="char:EOLhyphen"/>ing, and this under a great penalty to the Judges, before whom the ſaid cauſe depends.</p>
+            <p>The Plaintiffs and Defendants, and their witneſſes, are to ſpeake before the Judges, <hi>vivâ voco,</hi> and to plead their owne cauſes; for neither incriminall nor judiciall cauſes do we allow any advocates, except the Plaintiffe and Defendant, one or both be Ideots, naturall Fooles, or not <hi>compos mentis,</hi> that is, mad, or beſides themſelves.</p>
+            <p>The Judge of our Courts have no Fees, bnt conſtanſ ſet ſal<g ref="char:EOLhyphen"/>leries paid them by the State for that ſervice, theſe, ſalleries are partly paid out of the fines and amercements ſet on Litigious perſons, that are caſt and condemned in their cauſes, for the Judges are to lay ſevere fines on them, as for diſturbing the pri<g ref="char:EOLhyphen"/>vate peace of their honeſt neighbours, ſo alſo for troubling the Common-wealth.</p>
+            <p>We allow Appeales from our County Courts, to the high<g ref="char:EOLhyphen"/>eſt Court of our Metropolis; but he that will appeale muſt give good bond and ſecurity, that he ſhall make good his appeale, or elſe to forfeit the ſame that he is bound in, the one halfe to the party, for whom the cauſe was adjudged, in the ſaid County Court, and the other halfe to Common-wealth towards the uſe aforeſaid.</p>
+            <p>We have no particular Court of Chancery, that may
+<pb n="11" facs="tcp:115197:6"/>
+Monopolize the determination of all cauſes of equity wholly to it ſelf, but all our Courts have powr, as to Judge of the <hi>jus,</hi> and Law, ſo alſo of the equity and conſcience of any cauſe, that de<g ref="char:EOLhyphen"/>pends before them. We have none Prerogative Courts, for the very name is abominable, and the thing diametrically oppoſite to the charter of our Common-wealths conſtitution. But all maritime cauſes are determined, in the other Courts, under whoſe juriſ<g ref="char:EOLhyphen"/>dictions and precincts they happen and fall, who have power to determine according to reaſon and equity in all ſuch caſes, for the Civill law or <hi>jus gentium</hi> is no other, beſides ſome few ſea cuſtomes and uſages, which are well knowne to every experi<g ref="char:EOLhyphen"/>enced Sea-man, and therefore the jurors in all maritime cauſes ought to be of Sea-men and Mariners.</p>
+            <p>And as for the probate of wills, and differences about them, they alſo are to be decided in the uſuall Court, Save that the willis to be recorded by the regiſter of each County, as all other publike acts and contracts of that nature, ought to be as here<g ref="char:EOLhyphen"/>after is expreſſed.</p>
+            <p>And if any Judge, or any other Officer or adminiſtrator of juſtice, take any bribe, directly or indirectly, by himſelfe, wife, ſervant, or friend, and it be proved he ſhall looſe his place, and office, <hi>durante vita,</hi> during life, and forfeit treble, the vallue of the bribe, ſo taken to the Common-wealth, as alſo ſhall the Perſon that gave it him, to delay or pervert juſtice</p>
+            <p>We have a Court on purpoſe erected in every County, for the Triall of all mens claimes and titles to any eſtate and there<g ref="char:EOLhyphen"/>fore Proclamation is made to all ſuch as pretend to have any ſuch right, title, or claimes, to any inheritance, or eſtate as well as aforeſaid; (if the ſaid claimers live within the Land) that they bring in, and make forth their claime, in three moneths, next after ſuch a Proclamation made, as aforeſaid, or in one yeare and a day at fartheſt, or elſe they are to be for ever after, fore-judged and concluded by their own voluntary and wilfull neglect. Thus all titles and claimes to all eſtates in the Nation, being cleared and the property, aſſertined a publique regiſter is appointed in every County, Market Towne, and Towne corporate, thoſe in the Market Townes,
+<pb n="12" facs="tcp:115197:7"/>
+and corporate Townes aforeſaid, to be the deputies of the regiſter of the County, with whom all mens inheritances, and all other publique bargaines, ſales and contracts ſhall be from time, to time regiſtred, and recorded, and thence tranſmitted unto the regiſter Generall of the Metropolis, once in a quarter<g ref="char:punc">▪</g> or ſooner.</p>
+            <p>No man ſhall be impriſoned for debt (except ſuch of whom it is doubted that they are runing the Country, and then not above three dayes or a ſhort ſpace, during which time, he at whoſe ſuit he was impriſoned ſhall give and allow him 3ſ a day to maintain him there untill the matter may be examined by the Judges, and if no juſt cauſe be found for his impriſonment, he at whoſe ſuit he was ſo impriſoned ſhall pay him 5 lb an hour for his falſe impriſonment. But if it be found juſt, the impri<g ref="char:EOLhyphen"/>ſoned is forthwith to agree with his Creditor, or to pay the debt, which if he refuſe ſo to doe, he ſhall make a true confeſ<g ref="char:EOLhyphen"/>ſion upon oath of the real valew of his eſtate, and where, and what, and in whoſe hand, or cuſtody it remaineth, and payment is to be appointed by the Magiſtrate; <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of it the, ſaid goods and eſtate being ſould to the beſt advantage, and the overplus, (if any be) to be rendred unto the ſaid Debtor; but in caſe the eſtate and goods will not reach to the payment of the debt, and to leave the Debtor 5 lb to begin the world againe, if the debt be one hundred, or ſo many five ſhillings of each pound, as the debt is under an hundred, for the Credi<g ref="char:EOLhyphen"/>tor, if he thinke fit, ſhall leave ſo much in his hands; which ſume ſo left, ſhall be as an obligation to the Debtor, if ever God make him able, to pay his Creditor the whole debt due to him, but if the Creditor will take all, and leave him nothing, he ſhall be debarred in Law<g ref="char:EOLhyphen"/>ſuits for ever from challenging the remainder of the ſaid debt, from his ſaid Debtor. But in caſe that the Credi<g ref="char:EOLhyphen"/>tor ſhall prove that the Debtor hath forſworne himſelfe, and concealed any part of his eſtate, to defraud him, that then by the Law the Debtor ſhall be eſteemed, and puniſhed as a Cut-purſe or Fellon.</p>
+            <p>No man ſhall be arreſted by Sergeants or Bailiffs for debt, ſave onely in the caſe aforeſaid, but a ſummons in the na<g ref="char:EOLhyphen"/>ture
+<pb n="13" facs="tcp:115197:7"/>
+and forme of a Subpaena, is left at his dwelling houſe or the laſt and moſt uſuall place of his aboad; the ſummons expreſſing the day when, the time and place where, before whome, at whoſe ſuit, of what nature, under what penalty, and if the party ſummoned ſhall not appeare, as aforeſaid, then ſhall Proclamation be made in three of the next adjacent Market Townes, to ſummon the party and command him to appeare within a cer<g ref="char:EOLhyphen"/>taine time limited, and if he then alſo faile of ap<g ref="char:EOLhyphen"/>pearance, if he be within the Land, he ſhall be out Lawed, and an execution and extent ſhall iſſue againſt him and his goods and eſtate.</p>
+            <p>That the Religion publiquely profeſſed and pra<g ref="char:EOLhyphen"/>ctiſed in this Common-wealth, ſhall be the true Proteſtant Religion, in oppoſition to Popery, Prelacy, and all other falſe Religions.</p>
+            <p>That a well gifted, honeſt, able Preaching Miniſtery be ſet up in every Pariſh in the Com<g ref="char:EOLhyphen"/>mon-wealth, to inſtruct the people to lead their lives in the feare of God, and in due obedience to the Common wealth.</p>
+            <p>That the ſaid Parochiall Miniſtery, ſhall duly Adminiſter the Sacraments of Baptiſme and the Lords Supper unto all their Pariſhoners, that ſhall make profeſſion of their faith in God, according to the modell thereof laid downe in the Apoſtles Creed, and are not otherwiſe men of openly ſcan<g ref="char:EOLhyphen"/>dalous converſations, even unto as many of them as ſhall deſire the ſame.</p>
+            <p>That thoſe that ſhall voluntarily and deſiredly ſubmit to the publique forme, and Adminiſtration of the Ordinances as aforeſaid. And thoſe that in
+<pb n="14" facs="tcp:115197:8"/>
+reſpect of ſcruple conſciences ſhall not, that nei<g ref="char:EOLhyphen"/>ther of theſe diſturb each others aſſemblies or pra<g ref="char:EOLhyphen"/>ctiſe of the ordinances, and that the magiſtrate com<g ref="char:EOLhyphen"/>mand that Chriſtian peace to be kept among them, one towards the other.</p>
+            <p>That the Miniſters maintenance be Tithes untill they have obtained more faith to truſt God, the Chriſtian Magiſtrate, and the people for their maintenance in a Goſpell way<g ref="char:punc">▪</g>
+            </p>
+            <p>That for the incouragement and advancement of humane learning the Univerſities of this Na<g ref="char:EOLhyphen"/>tion be kept up and ſo ordered and regulated that they may be the Nurſeries of good litera<g ref="char:EOLhyphen"/>ture, and manners, and not of ignorance idleneſſe, pride, luxury, irreligion, and other ſuch like ſordid vices, and that Latine be commonly ſpoken in the Schooles, and Colledges, and amongſt the Students and Schol<g ref="char:EOLhyphen"/>lars, that our Nation may not be ſo generally defective that way as they are found to be when they come abroad into forraigne Nati<g ref="char:EOLhyphen"/>ons to their great ſhame.</p>
+            <p>That care be taken, that the Teachers of all publique Grammer Schooles, be men well principled in the Proteſtant Religion, and very able Grammarians, and expert Linguiſts at leaſt in two of the Languages, <hi>viz.</hi> Latine and Greek.</p>
+            <p>That in every Market Towne or great Pariſh, Free-Schooles be ſet up to inſtruct and teach poore peoples children of both ſexes, at leaſt to read, untill they be fit to be put forth, or placed in ſervices, both which to be at the puplick and common charges.</p>
+            <p>
+               <pb n="15" facs="tcp:115197:8"/>That no Corporations exerciſe any laws, cuſtoms, uſa<g ref="char:EOLhyphen"/>ges, or preſcriptions contrary to reaſon, equity, common right, and liberty of every free-born Engliſh-man, as is expreſſed in the great Charter of the Common-wealths conſtitution.</p>
+            <p>That any free-born Engliſh-man, or native, may ſet up and uſe any Mechanicall Trade, Profeſſion, or Occupation, in any City, Town, Corporate, or in any place of this Nation, without exception, whether he have been bound ap<g ref="char:EOLhyphen"/>prentice to it or no.</p>
+            <p>That any poore Labourer or Trades-man, as aforeſaid, may remove his dwelling and family into any place of theſe Na<g ref="char:EOLhyphen"/>tions, where he finds he can get moſt work and imployment, for the comfortable ſubſiſtance of himſelfe and family, with<g ref="char:EOLhyphen"/>out diſturbance, or being ſent back again, or inforced to give ſecurity that he ſhall not be chargable to the Pariſh, there be<g ref="char:EOLhyphen"/>ing due proviſion made for all ſuch in the manner here-to-fore mentioned.</p>
+            <p>We have cuſtoms for the maintenance of our Navy, payd upon all imported and exported commodities, and we do alſo upon neceſſity of increaſing our Navy, above the number of our uſuall guard, impoſe a new Impoſt, or Exciſe as we call it, which is no other than the doubling the cuſtoms on ſome, or trebling of it upon other commodities, leſſe uſefull to the Nation, and more ſuperfluous but all is managed and collected by one and the ſelf-ſame Set of officers appointed for that purpoſe by means whereof, very much charge and expence is ſaved to the Common-wealth, and the Merchant far better contented as being enabled to carry on his buſineſſe and trade with much leſſe trouble and perplexity</p>
+            <p>We have exciſe alſo upon Cyder, Ale, and Beer, ſold in Innes and Ale-houſes after the rate of three ſhillings the Hogshead, allowing one Hogshead in ten for grounds, and waſt Beer, this exciſe is ſet, aſſeſſed, and aſſertained on each Inne and Ale-houſe-keeper by the Juſtices of Peace of
+<pb n="16" facs="tcp:115197:9"/>
+each County annually, when they give Licences to the ſaid Ales-houſes.</p>
+            <p>As alſo on other cuſtomed Ale-houſes, having taken the beſt information poſſible of the weeke<g ref="char:EOLhyphen"/>ly draughts and expence of Beere and Ale ſould and expended in every the ſaid-houſes, and the ſumme being thus accounted, reckoned and aſſer<g ref="char:EOLhyphen"/>tained, the ſeverall Ale-houſe-keepers ſhall enter into bond unto the Common-wealth, to pay it quarterly, and the moneys ſo due and payable, to be received and collected by the Juſtices of the Peace in their reſpective deviſions, and tranſmitted by them into the publique treaſury; the ſaid Juſtices of the Peace, at the time of their annuall ſetting and aſſertaining of the exciſe as afore-ſaid, tranſmitting a true and certaine account of all ſuch ſumme and ſummes of money, and from whom they are due and payable unto the Parliament or Counſell of State.</p>
+            <p>We hold it our intereſt, if it may any wayes ſtand with the honour and ſafety of the Common<g ref="char:EOLhyphen"/>wealth, and that we be not juſtly and unſufferably provoked to the contrary, to have peace with all Forraigne Nations, as finding this moſt to con<g ref="char:EOLhyphen"/>duce to the profit and benefit of the Common<g ref="char:EOLhyphen"/>wealth, in advancing trade. Ballancing the intereſts and differences of our Neighbours, rather by our Chriſtian and civill addreſſes, mediations, and in<g ref="char:EOLhyphen"/>terpoſitions, than by the Sword; And ſeeing we
+<pb n="17" facs="tcp:115197:9"/>
+have roome enough in the New-ſound-World to ſwarme forth and diſcharge our ſelves with ſafety of our inhabitants, when we grow Populons, thinke it as impolitique, ſo alſo un-Chriſtian, to caſt away our men and waſt our treaſure, and to impo<g ref="char:EOLhyphen"/>veriſh and in danger our Common-wealth at home, in hopes only of enlarging our Dominions abroad. Wee permit no goods or Marchandiſe to be imported in forraign bottomes, that are not really and indeed of the growth, production and manufactory of the ſame Nation, unto whom the ſaid bottome or veſſell doth truly appertain, and whereof the maſter and the great<g ref="char:EOLhyphen"/>eſt part of the ſhips company be the reall natives and in<g ref="char:EOLhyphen"/>habitants of the Country unto which the ſaid veſſell be<g ref="char:EOLhyphen"/>longs, without colluſion, upon the confiſcation of ſhip and gaods.</p>
+            <p>We allow no Monopoly of trades, or farming of any publique revenues it being coutrary to the free<g ref="char:EOLhyphen"/>dome of the people, as being alwayes oppreſſive and vexatious to them, and alienating there affections from their Governors.</p>
+            <p>That the fiſhing trade here at home on our owne ſeas, (ſo greatly neglected) be againe revived, advanced, and encouraged it tending much to the increaſing navigation, and enriching of the Nation; witneſſe the vaſt benefit the <hi>Hollander,</hi> (our induſtrious neighbours) yearely make of it, which might be our own if we pleaſed.</p>
+            <p>The narrow Seas we challenge to be Maſters and ſo<g ref="char:EOLhyphen"/>veraignes of, by antient and juſt preſcription and though we have peace with our neighbours as aforeſaid, yet we conſtantly maintain a competent number of ſtately
+<pb n="18" facs="tcp:115197:10"/>
+frigots for a Summer and Winter guard, well pro<g ref="char:EOLhyphen"/>vided and managed with ſtout and faithfull Seamen and Commanders as to keep up our ſaid preſcription and ſecure our trade againſt <hi>Pirats,</hi> ſo alſo to be alwayes ready to occurre any invaſion that we may not be ſur<g ref="char:EOLhyphen"/>priſed without warning, and unnprovided in caſe our Alleys ſhould prove falſe and play faſt and looſe with us, when it will beſt ſuite with there owne intereſt and occaſion, which they are very apt to do.</p>
+            <p>That the Nations of <hi>Ireland</hi> and <hi>Scotland</hi> be in<g ref="char:EOLhyphen"/>cluded and concerned in all the priviledges, rights and immuniteys of the great Charter, we being all re<g ref="char:EOLhyphen"/>duced into one forme of a Common-wealthes govern<g ref="char:EOLhyphen"/>ment.</p>
+            <p>That when, and aſſoone as it ſhall pleaſe God, that the preſent ſupreame authority of this Nation, ſhall have ſetled and ſecured it in ſome good and convenient meaſure from forraign feares, inteſtine inſurrections, by peaceable treaties with our neighbours abroad and ſetling the Malitia in the hands of faithfull perſons at home in every County, and have diſpoſed the re<g ref="char:EOLhyphen"/>ception of the publique revenues, and other offices of truſt into ſure and truſty hands, noe way tainted with the Leaven of Villinage that then ſome ſuch, or much more juſt, reaſonable, equitable and neceſ<g ref="char:EOLhyphen"/>ſary rules or heads of a reall Common-wealth Govern<g ref="char:EOLhyphen"/>ment may be conſidered and drawne up as the <hi>magna charta</hi> or great Charter, and preſented to the people of every Pariſh, in every County, on the Lords day in the Church after the after noone Sermon, and read to them and ably and plainly for their ſubſcriptions, al<g ref="char:EOLhyphen"/>lowance and free conſent: whereunto it cannot be doubted but the moſt part of the good people of the
+<pb n="19" facs="tcp:115197:10"/>
+Nation: (The thing ſo much concerning their own free<g ref="char:EOLhyphen"/>dome, and good, when they are thus once made really to underſtand it) will be Univerſally forward and free unto it, as ſeeing themſelves thereby put into full poſ<g ref="char:EOLhyphen"/>of their hopes and expectations and their ſubſcriptions as aforeſaide being ſent unto the ſupreame authority, they forthwith iſſue writs to ſummon a new Repreſenta<g ref="char:EOLhyphen"/>tive elected and choſen out of the ſubſcribers, who (ſuch only being chuſers in each County as aforeſaid) may by act of Parliament confirme the ſoreſaid Charter of Government and union of the three Nations in one Common-wealth.</p>
+            <p>So ſhall we begin to act again upon ſuch a Baſis and foundation in Religion, Law, and reaſon, as ſhall be juſt and undeniable and wipe of the ſhame of all our former unſteadfaſtneſſe in our engagements to Gad and man.</p>
+            <p>And the good and honeſt people in all the three Nations (through Gods mercifull providence) ſhall fully reape and enjoy the bleſſed fruit and benifit of all their Prayers, Teares, Vowes, Sufferings, and expence of their blood and trea<g ref="char:EOLhyphen"/>ſure. And all the miſaffected in the Nations be experimentally convinced that they have oppoſed that through their paſſion, preejudice, and ignorance, which can alone make them and their poſterity truly happy both as men and as Chriſtians.</p>
+            <p>The <hi>Magna Charta</hi> or great Character of the Commonwealth conſtitution, ſo agreed upon and ſubſcribed by the <hi>major</hi> part of the good people of the Nation may be kept in every Pariſh Church, bound up within the end of the great Church Bible, and read
+<pb n="20" facs="tcp:115197:11"/>
+unto the People by the Miniſter, once every Quarter on the Lords day in the Afternoon, after the Sermon, before the bleſſing, upon the penalty of the loſs of his living.</p>
+            <p>And thus all hearts being ſouldred in one, we ſhall ſit down every one under his own Vine and Figtree in tranquillity and peace, none within, or without us being able to make us afraid but we, and much more our poſterites ſinging perpetuall praiſes unto the Lord the God of ou ſettlement and deliverance.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
